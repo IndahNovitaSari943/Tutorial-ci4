@@ -62,4 +62,4 @@ Additionally, make sure that the following extensions are enabled in your PHP:
 - [libcurl](http://php.net/manual/en/curl.requirements.php) if you plan to use the HTTP\CURLRequest library
 
 ##Url Web
-[UrlWeb](https://webperidzinansantri.000webhostapp.com/)
+https://webperidzinansantri.000webhostapp.com/
